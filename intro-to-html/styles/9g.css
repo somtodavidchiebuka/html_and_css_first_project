@@ -1,0 +1,66 @@
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 7px;
+}
+.demon {
+    height: 140px;
+    width: 160px;
+    object-fit: cover;
+    object-position: middle;
+    display: block;
+    margin-bottom: 0px;
+}
+.name {
+    margin-top: 4px;
+    margin-left: 6px;
+}
+.button-layout {
+    width: 130px;
+    height: 130px;
+    background-color: white;
+}
+.mutual-friends {
+    color: gray;
+    font-size: 13px;
+    display: block;
+    margin-top: 3px;
+    margin-left: 6px;
+}
+.add-friend {
+    background-color: rgb(24, 151, 236);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding-right: 17px;
+    padding-left: 17px;
+    height: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    margin-top: 10px;
+    margin-left: 6px;
+    margin-bottom: 7px;
+    margin-right: 50px;
+    display: block;
+    cursor: pointer;      
+}
+.layout-one {
+    display: inline-block;
+    border-radius: 3px;
+    padding-bottom: 0px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
+}
+.layout-two {
+    display: inline-block;
+    border-radius: 3px;
+    padding-bottom: 0px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4); 
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.layout-three {
+    display: inline-block;
+    border-radius: 3px;
+    padding-bottom: 0px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
+}
